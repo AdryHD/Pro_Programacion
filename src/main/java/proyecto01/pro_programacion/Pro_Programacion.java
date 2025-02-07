@@ -13,7 +13,7 @@ public class Pro_Programacion {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("PRUEBA");
-        System.out.println("Hello");
+        System.out.println("hola");
        
     }
 }
